@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains a few lines of text.
+This file is used to test the file read and write program.
+Have a great day!
